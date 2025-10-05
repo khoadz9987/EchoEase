@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Arp';
+    src: local('Arp 150'), local('Arp-150'),
+        url('ARP-150.woff2') format('woff2'),
+        url('ARP-150.woff') format('woff'),
+        url('ARP-150.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
